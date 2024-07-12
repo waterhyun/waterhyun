@@ -23,24 +23,7 @@ Here are some ideas to get you started:
 <!-- 참고 사이트: https://github.com/kyechan99/capsule-render/tree/master  -->
 
 
-
-
-
 <!-- 방문자 수 -->
-
-<!-- 색상
-.color1 {color: #120907;}
-.color2 {color: #12233e;}
-.color3 {color: #155b8d;}
-.color4 {color: #2099d8;}
-.color5 {color: #20d5d8;} -->
-
-<!-- 색상2
-.color1 {color: #433557;}
-.color2 {color: #6c4569;}
-.color3 {color: #a76085;}
-.color4 {color: #f289a5;}
-.color5 {color: #f8bcbc;} -->
 
 <div align="Right">
 
@@ -89,9 +72,9 @@ https://simpleicons.org/
 <!-- 경험 -->
 ### 😎 Experience
 - 🎓서울시립대학교 경제학부, 빅데이터분석학  
-  University of Seoul, Economics and Big Data Analytics
+  University of Seoul, Economics and Big Data Analytics (2018.03~2024.08)
 - 💰 경기신용보증재단 인턴         
-  Gyeonggi-Credit-Guarantee-Foundation, Intern (2022.09.05~2023.02.28) 
+  Gyeonggi Credit Guarantee Foundation, Intern (2022.09.05~2023.02.28) 
 - 🏛  IBK 기업은행 청년인턴   
   Industrial Bank of Korea, Intern (2024.01.12 ~ 02.23) 
 - 🏆 데이터 분석 청년인재 양성사업 사업보고회 대상 (2023.03.16)
@@ -104,3 +87,5 @@ https://easyhomputer.tistory.com/22 -->
 
 ### 💌 Contact
 <img src="https://img.shields.io/badge/1eesuhyun521@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" height="20"/></a>
+
+
