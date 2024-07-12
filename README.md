@@ -101,3 +101,6 @@ https://simpleicons.org/
 https://blog.cowkite.com/blog/2102241544/
 https://velog.io/@oka1313/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 https://easyhomputer.tistory.com/22 -->
+
+### 💌 Contact
+<img src="https://img.shields.io/badge/1eesuhyun521@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" height="20"/></a>
