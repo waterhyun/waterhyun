@@ -48,16 +48,16 @@ https://mybrandnewlogo.com/ko/color-palette-generator -->
 
 ### 💻 Tech Stacks
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white" height="20"/></a>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white" height="21"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" height="21"/>
 
 
 ### 🔨 Tools
-<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/qgis-589632?style=flat&logo=qgis&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="21"/>
+<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white" height="21"/>
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white" height="21"/>
+<img src="https://img.shields.io/badge/qgis-589632?style=flat&logo=qgis&logoColor=white" height="21"/>
+<img src="https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white" height="21"/>
 
 <!-- 참고 사이트: 
 https://shields.io/
@@ -86,6 +86,6 @@ https://velog.io/@oka1313/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%
 https://easyhomputer.tistory.com/22 -->
 
 ### 💌 Contact
-<a href="mailto:1eesuhyun521@gmail.com"><img src="https://img.shields.io/badge/1eesuhyun521@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" height="20"/></a>
+<a href="mailto:1eesuhyun521@gmail.com"><img src="https://img.shields.io/badge/1eesuhyun521@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" height="21"/></a>
 
 
