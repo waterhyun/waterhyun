@@ -65,16 +65,16 @@ https://mybrandnewlogo.com/ko/color-palette-generator -->
 
 ### 💻 Tech Stacks
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white" height="20"/></a>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></a>
 
 
 ### 🔨 Tools
-<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/qgis-589632?style=flat&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/qgis-589632?style=flat&logo=qgis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white"/></a>
 
 <!-- 참고 사이트: 
 https://shields.io/
