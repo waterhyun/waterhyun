@@ -67,12 +67,14 @@ https://simpleicons.org/
 <!-- 경험 -->
 ### 😎 Experience
 - 🎓서울시립대학교 경제학부, 빅데이터분석학  
-  University of Seoul, Economics and Big Data Analytics (2018.03~2024.08)
+  University of Seoul, Economics and Big Data Analytics (2018.03.01 ~ 2024.08.22)
 - 💰 경기신용보증재단 인턴         
-  Gyeonggi Credit Guarantee Foundation, Intern (2022.09.05~2023.02.28) 
-- 🏛  IBK 기업은행 청년인턴   
-  Industrial Bank of Korea, Intern (2024.01.12 ~ 02.23) 
+  Gyeonggi Credit Guarantee Foundation, Intern (2022.09.05 ~ 2023.02.28)
 - 🏆 데이터 분석 청년인재 양성사업 사업보고회 대상 (2023.03.16)
+- 🏛  IBK 기업은행 청년인턴   
+  Industrial Bank of Korea, Intern (2024.01.12 ~ 02.23)
+- 👩🏻‍💻 삼성 소프트웨어 아카데미 12기  
+  12th SSAFY (2024.07.02 ~ Now)
 
 
 <!-- 최종 참고 사이트: 
