@@ -72,7 +72,7 @@ https://simpleicons.org/
   Gyeonggi Credit Guarantee Foundation, Intern (2022.09.05 ~ 2023.02.28)
 - 🏆 데이터 분석 청년인재 양성사업 사업보고회 대상 (2023.03.16)
 - 🏛  IBK 기업은행 청년인턴   
-  Industrial Bank of Korea, Intern (2024.01.12 ~ 02.23)
+  Industrial Bank of Korea, Intern (2024.01.12 ~ 02024.02.23)
 - 👩🏻‍💻 삼성 소프트웨어 아카데미 12기  
   12th SSAFY (2024.07.02 ~ Now)
 
