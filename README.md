@@ -74,7 +74,7 @@ https://simpleicons.org/
 - 🏛  IBK 기업은행 청년인턴   
   Industrial Bank of Korea, Intern (2024.01.12 ~ 02024.02.23)
 - 👩🏻‍💻 삼성 소프트웨어 아카데미 12기  
-  12th SSAFY (2024.07.02 ~ Now)
+  12th SSAFY (2024.07.02 ~ 2025.02.24)
 
 
 <!-- 최종 참고 사이트: 
