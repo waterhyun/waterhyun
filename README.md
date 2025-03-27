@@ -23,13 +23,16 @@ Here are some ideas to get you started:
 <!-- 참고 사이트: https://github.com/kyechan99/capsule-render/tree/master  -->
 
 
-<!-- 방문자 수 -->
+
+<!-- 방문자 수(현재 비활성화: 사이트 문제)
 
 <div align="Right">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwaterhyun&count_bg=%236D92FE&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
+-->
 
 <!-- 참고 사이트: 
 https://hits.seeyoufarm.com/
@@ -48,11 +51,13 @@ https://mybrandnewlogo.com/ko/color-palette-generator -->
 
 ### 💻 Tech Stacks
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white" height="21"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" height="21"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 
 ### 🔨 Tools
-<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="21"/> <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white" height="21"/> <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white" height="21"/> <img src="https://img.shields.io/badge/qgis-589632?style=flat&logo=qgis&logoColor=white" height="21"/> <img src="https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white" height="21"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=QGIS&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+
 
 <!-- 참고 사이트: 
 https://shields.io/
@@ -60,9 +65,8 @@ https://simpleicons.org/
  -->
 
 
-### 🔗 Language stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterhyun&layout=compact&size_weight=0.5&count_weight=0.5)
-
+### 🔗 Language stats & Baekjoon Tier
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterhyun&layout=compact&size_weight=0.5&count_weight=0.5) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1eesuhyun521)](https://solved.ac/your_baekjoon_id)
 
 <!-- 경험 -->
 ### 😎 Experience
